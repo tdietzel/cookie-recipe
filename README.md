@@ -14,13 +14,13 @@ _This webpage practices fixing previous indentation, spacing and HTML tag placem
 
 ## Setup/Installation Requirements
 
-* _Install_
-
-_Very simple and easy to view/navigate through_
+* _Clone this repository to your desktop._
+* _Navigate to the top level of the directory._
+* _Open js/index.html in your browser._
 
 ## Known Bugs
 
-* _None currently_
+* _None currently known._
 
 ## License
 
